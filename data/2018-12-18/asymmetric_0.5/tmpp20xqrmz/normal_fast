@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<root>
+ <runs>
+  <run id="" dim="16">
+   <identities>
+    <identity name="sp2"/>
+    <identity name="sp6"/>
+    <identity name="sp11"/>
+    <identity name="sp10"/>
+    <identity name="sp3"/>
+    <identity name="sp7"/>
+    <identity name="sp16"/>
+    <identity name="sp4"/>
+    <identity name="sp5"/>
+    <identity name="sp9"/>
+    <identity name="sp15"/>
+    <identity name="sp1"/>
+    <identity name="sp8"/>
+    <identity name="sp12"/>
+    <identity name="sp13"/>
+    <identity name="sp14"/>
+   </identities>
+   <dms>
+   <dm>
+    <row>
+     <entry>0.000000</entry>
+    </row>
+    <row>
+     <entry>0.870060</entry>
+     <entry>0.000000</entry>
+    </row>
+    <row>
+     <entry>0.844889</entry>
+     <entry>0.723404</entry>
+     <entry>0.000000</entry>
+    </row>
+    <row>
+     <entry>0.937963</entry>
+     <entry>0.678350</entry>
+     <entry>0.662604</entry>
+     <entry>0.000000</entry>
+    </row>
+    <row>
+     <entry>0.665077</entry>
+     <entry>0.583701</entry>
+     <entry>0.645751</entry>
+     <entry>0.693913</entry>
+     <entry>0.000000</entry>
+    </row>
+    <row>
+     <entry>0.764989</entry>
+     <entry>0.523727</entry>
+     <entry>0.541738</entry>
+     <entry>0.575522</entry>
+     <entry>0.489691</entry>
+     <entry>0.000000</entry>
+    </row>
+    <row>
+     <entry>0.775741</entry>
+     <entry>0.562947</entry>
+     <entry>0.586621</entry>
+     <entry>0.561143</entry>
+     <entry>0.532499</entry>
+     <entry>0.393402</entry>
+     <entry>0.000000</entry>
+    </row>
+    <row>
+     <entry>0.659771</entry>
+     <entry>0.487778</entry>
+     <entry>0.535634</entry>
+     <entry>0.614167</entry>
+     <entry>0.368250</entry>
+     <entry>0.399572</entry>
+     <entry>0.434790</entry>
+     <entry>0.000000</entry>
+    </row>
+    <row>
+     <entry>0.670305</entry>
+     <entry>0.458714</entry>
+     <entry>0.508899</entry>
+     <entry>0.581389</entry>
+     <entry>0.341983</entry>
+     <entry>0.386023</entry>
+     <entry>0.421012</entry>
+     <entry>0.220088</entry>
+     <entry>0.000000</entry>
+    </row>
+    <row>
+     <entry>0.944499</entry>
+     <entry>0.710362</entry>
+     <entry>0.595316</entry>
+     <entry>0.568694</entry>
+     <entry>0.702722</entry>
+     <entry>0.560776</entry>
+     <entry>0.608888</entry>
+     <entry>0.567832</entry>
+     <entry>0.535512</entry>
+     <entry>0.000000</entry>
+    </row>
+    <row>
+     <entry>0.762536</entry>
+     <entry>0.505853</entry>
+     <entry>0.448101</entry>
+     <entry>0.424491</entry>
+     <entry>0.450087</entry>
+     <entry>0.346840</entry>
+     <entry>0.347455</entry>
+     <entry>0.335314</entry>
+     <entry>0.321490</entry>
+     <entry>0.444411</entry>
+     <entry>0.000000</entry>
+    </row>
+    <row>
+     <entry>0.854312</entry>
+     <entry>0.615074</entry>
+     <entry>0.538575</entry>
+     <entry>0.469101</entry>
+     <entry>0.605220</entry>
+     <entry>0.485580</entry>
+     <entry>0.495083</entry>
+     <entry>0.494968</entry>
+     <entry>0.488147</entry>
+     <entry>0.429093</entry>
+     <entry>0.319241</entry>
+     <entry>0.000000</entry>
+    </row>
+    <row>
+     <entry>0.840143</entry>
+     <entry>0.566832</entry>
+     <entry>0.472419</entry>
+     <entry>0.371938</entry>
+     <entry>0.534674</entry>
+     <entry>0.426313</entry>
+     <entry>0.413834</entry>
+     <entry>0.424539</entry>
+     <entry>0.377614</entry>
+     <entry>0.314227</entry>
+     <entry>0.244027</entry>
+     <entry>0.246461</entry>
+     <entry>0.000000</entry>
+    </row>
+    <row>
+     <entry>0.849365</entry>
+     <entry>0.595262</entry>
+     <entry>0.487667</entry>
+     <entry>0.387390</entry>
+     <entry>0.581028</entry>
+     <entry>0.466849</entry>
+     <entry>0.465710</entry>
+     <entry>0.465179</entry>
+     <entry>0.436933</entry>
+     <entry>0.339163</entry>
+     <entry>0.262854</entry>
+     <entry>0.214777</entry>
+     <entry>0.180670</entry>
+     <entry>0.000000</entry>
+    </row>
+    <row>
+     <entry>0.818543</entry>
+     <entry>0.581711</entry>
+     <entry>0.495264</entry>
+     <entry>0.382420</entry>
+     <entry>0.570391</entry>
+     <entry>0.421617</entry>
+     <entry>0.419873</entry>
+     <entry>0.460580</entry>
+     <entry>0.413257</entry>
+     <entry>0.320857</entry>
+     <entry>0.255311</entry>
+     <entry>0.146040</entry>
+     <entry>0.148686</entry>
+     <entry>0.131906</entry>
+     <entry>0.000000</entry>
+    </row>
+    <row>
+     <entry>0.858780</entry>
+     <entry>0.590077</entry>
+     <entry>0.541332</entry>
+     <entry>0.449858</entry>
+     <entry>0.599450</entry>
+     <entry>0.463329</entry>
+     <entry>0.467478</entry>
+     <entry>0.492751</entry>
+     <entry>0.455693</entry>
+     <entry>0.383842</entry>
+     <entry>0.314015</entry>
+     <entry>0.187817</entry>
+     <entry>0.205117</entry>
+     <entry>0.182229</entry>
+     <entry>0.097683</entry>
+     <entry>0.000000</entry>
+    </row>
+   </dm>
+   </dms>
+  </run>
+ </runs>
+</root>
